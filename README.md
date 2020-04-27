@@ -3,7 +3,7 @@ A first shot at building a webscaper for recipes from the Marley Spoon website.
 
 The setup of files is as follows:
 
-x_paths.py - used to define all the xpath classes that scaper_main uses to find recipe content
+[b]x_paths.py[/b] - used to define all the xpath classes that scaper_main uses to find recipe content
 
 scraper_class.py - consists of 2 classes used for interacting with websites & grabbing content (spider & scraper respectively). both rely on selenium
 
