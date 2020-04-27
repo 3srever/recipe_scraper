@@ -15,6 +15,5 @@ The setup of files is as follows:
 
 ### libraries required
 - selenium
-- selenium.webdriver.chrome.options
 - pandas
 - time
