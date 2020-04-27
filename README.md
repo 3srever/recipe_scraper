@@ -13,8 +13,8 @@ The setup of files is as follows:
 3. the third block navigates to each url, grabs the requested content & prepares it for use in a pandas dataframe.
 
 
-### requirements
-selenium
-selenium.webdriver.chrome.options
-pandas
-time
+### libraries required
+- selenium
+- selenium.webdriver.chrome.options
+- pandas
+- time
