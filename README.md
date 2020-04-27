@@ -12,3 +12,9 @@ The setup of files is as follows:
 2. the second block will navigate to a domain (country), click the date of choice & grab the url of each recipes on that page
 3. the third block navigates to each url, grabs the requested content & prepares it for use in a pandas dataframe.
 
+
+##### requirements
+selenium
+selenium.webdriver.chrome.options
+pandas
+time
